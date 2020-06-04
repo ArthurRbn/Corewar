@@ -29,5 +29,7 @@ The bonus file is an unfinished visual interface coded using the ncurses library
 Realised with:
 
 FRECHARD Maxime
+
 BIEHLER Axel
+
 SAUNER Alexandre
