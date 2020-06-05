@@ -20,7 +20,7 @@ You can create your own champ to make him fight against others champs.
 # VM
 
 The machine will run your champion and the others to make them fight each others.
-Champions programs are loaded to memory at the beginning, after this instructions are fetched and executed for each program, each instruction needs a different number of cycles to be executed.
+Champions programs are loaded into memory at the beginning, after this instructions are fetched and executed for each program, each instruction needs a different number of cycles to be executed.
 
 For more precisions have a look at the Corewar_subject.pdf
 
