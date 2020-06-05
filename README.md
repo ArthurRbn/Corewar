@@ -7,7 +7,7 @@ ASM part is a compiler which transforms champions asm langage to binary (.cor).
 The virtual machine ('corewar' binary) takes between 2 and 4 .cor binaries (champions) and run them.
 The champions execute instructions on the same memory block (6144 bytes).
 Champions have to execute the live instruction at least one time per CYCLE_TO_DIE or they die.
-The Winner is the last one to execute live instuctions.
+The Winner is the last one to execute live instructions.
 
 # ASM
 
