@@ -13,7 +13,7 @@ The Winner is the last one to execute live instructions.
 
 You can find some source code of asm here : ./asm/src
 
-It'll transform those .s in .cor that can be interpreated by the machine.
+It'll transform those .s in .cor that can be interpreted by the machine.
 
 You can create your own champ to make him fight against others champs.
 
